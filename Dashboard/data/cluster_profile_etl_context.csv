@@ -1,0 +1,4 @@
+cluster_name,n_scheduled_trips,avg_run_time_minutes,n_avl_observations,avg_delay_minutes,avg_fare
+High Disruptions,179.17,2.1,14.04,50.36,4.03
+Low Disruptions,128.88,1.63,8.46,41.73,3.23
+Moderate Disruptions,168.56,1.6,11.26,43.21,3.6

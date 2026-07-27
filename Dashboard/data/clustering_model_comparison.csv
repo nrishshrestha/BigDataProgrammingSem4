@@ -1,0 +1,4 @@
+Model,Type,Silhouette,N_Clusters
+"KMeans (Baseline, Unscaled)",Partition-based,0.27649113922141805,3
+"DBSCAN (Advanced, Density)",Density-based,0.4350406164446922,3
+"GMM (Advanced, Probabilistic)",Model-based (EM),0.5639524891077975,3

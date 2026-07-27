@@ -1,0 +1,171 @@
+SituationNumber,LineRef,AffectedStopRef,AffectedStopName,Severity,ReasonCategory,ReasonType,Planned,StartTime,EndTime,DurationHours,IsSynthetic
+SYN-131244,1,340000008JR5,John Radcliffe Hospital Manor Surgery,verySlight,RoadworksReason,resurfacingWork,True,2026-05-28T13:09:42.784809,2026-05-28T14:00:38.626166,0.85,True
+SYN-895667,1,340001233OMO,Blackbird Leys The Blackbird,verySlight,RoadworksReason,maintenanceWork,True,2026-04-09T10:22:54.185164,2026-04-09T11:22:43.724020,1.0,True
+SYN-733052,10,340003108OPP,Eynsham Evenlode,verySlight,EnvironmentReason,highTemperatures,False,2026-06-12T12:34:10.502252,2026-06-12T13:36:28.326111,1.04,True
+SYN-705397,10,340001822OPP,Farmoor Oxford Road,slight,RoadworksReason,resurfacingWork,True,2026-04-24T19:21:54.263518,2026-04-24T23:00:53.329824,3.65,True
+SYN-270555,10,340002015CNR,Eynsham Old Witney Road,verySlight,RoadworksReason,maintenanceWork,True,2026-04-18T07:20:36.077836,2026-04-18T08:34:00.569508,1.22,True
+SYN-497887,10,340003742CPK,Chadlington Caravan Park,normal,RoadworksReason,resurfacingWork,True,2026-05-04T07:35:27.200301,2026-05-05T15:31:47.761151,31.94,True
+SYN-520651,10,340001448BHC,Bretch Hill Bretch Hill,slight,MiscellaneousReason,demonstration,True,2026-04-25T07:05:14.301075,2026-04-25T13:59:14.169464,6.9,True
+SYN-246413,12,340001330RBT,Barton Underhill Circus,severe,RoadworksReason,maintenanceWork,True,2026-04-25T02:19:13.051587,2026-05-01T14:00:54.522108,155.69,True
+SYN-195325,13,340001783OPP,Easington Ashridge Close,normal,EquipmentReason,signalFailure,False,2026-04-23T04:42:55.499828,2026-04-24T00:38:35.736512,19.93,True
+SYN-363626,13,340002014KSS,Kingsmere Whitelands Way South,normal,MiscellaneousReason,diversion,True,2026-06-08T00:29:22.056982,2026-06-08T07:17:04.845636,6.8,True
+SYN-555884,14,340004128OUT,Bodicote Bodicote House,normal,MiscellaneousReason,diversion,True,2026-06-27T09:31:45.464323,2026-06-28T22:34:04.507778,37.04,True
+SYN-982554,14,340017104YAR,Bodicote Yarrow Road,severe,RoadworksReason,maintenanceWork,True,2026-04-15T05:37:14.697784,2026-04-21T17:02:20.969700,155.42,True
+SYN-120422,14,340001779OPP,Deddington The Leyes,slight,EnvironmentReason,fog,False,2026-05-28T12:07:51.272078,2026-05-28T19:48:19.465719,7.67,True
+SYN-903035,14,340000933OPW,North Leigh Windmill Heights,verySlight,AccidentReason,vehicleFire,False,2026-04-11T01:38:03.432095,2026-04-11T02:44:11.276427,1.1,True
+SYN-847581,14,340001750EAS,Hook Norton The Green,verySlight,EnvironmentReason,fog,False,2026-04-12T07:38:33.737583,2026-04-12T10:19:25.634953,2.68,True
+SYN-341292,2,340003132EAS,Wantage Seesen Way,slight,MiscellaneousReason,demonstration,True,2026-04-29T01:18:25.881156,2026-04-29T05:28:03.331919,4.16,True
+SYN-324643,2,340001903PWD,Water Eaton Oxford Parkway Railway Station,normal,RoadworksReason,maintenanceWork,True,2026-05-23T23:01:50.329655,2026-05-25T16:51:16.577055,41.82,True
+SYN-544154,2,340001094OPR,Oxford Binsey Lane,slight,PersonnelReason,industrialAction,False,2026-05-19T12:44:43.050526,2026-05-19T17:03:21.968688,4.31,True
+SYN-300896,2,300000037TW,Tudor Way,normal,MiscellaneousReason,diversion,True,2026-05-07T23:58:51.298563,2026-05-08T21:41:46.509648,21.72,True
+SYN-153045,2,340001048ENT,Cutteslowe Five Mile Drive,verySlight,EquipmentReason,signalFailure,False,2026-04-18T02:51:04.472036,2026-04-18T04:30:28.124652,1.66,True
+SYN-161483,2,340003118STA,Carterton Stanmore Crescent,verySevere,EquipmentReason,vehicleBreakdown,False,2026-05-29T16:37:58.695733,2026-06-04T01:03:44.128892,128.43,True
+SYN-794022,200,340002073HC,Health Centre,verySlight,RoadworksReason,resurfacingWork,True,2026-04-15T19:36:58.256018,2026-04-15T22:04:34.891436,2.46,True
+SYN-627276,200,340001775OPP,Deddington Deddington Manor,verySlight,RoadworksReason,resurfacingWork,True,2026-06-04T15:45:42.748704,2026-06-04T16:24:29.098332,0.65,True
+SYN-697347,200,300000055D,Byfield Dolls Hill,verySevere,EquipmentReason,vehicleBreakdown,False,2026-06-22T17:52:34.329350,2026-06-28T07:58:12.111159,134.09,True
+SYN-378517,200,300000037H,Brackley Church Road,slight,EquipmentReason,vehicleBreakdown,False,2026-04-23T03:49:30.544404,2026-04-23T08:29:04.668835,4.66,True
+SYN-176819,200,340000950HAM,Kidlington Fairfax Road,slight,EnvironmentReason,highTemperatures,False,2026-05-06T14:53:50.744649,2026-05-06T22:26:51.248693,7.55,True
+SYN-741390,200,340003069BRC,Banbury Town Centre Bolton Road,severe,EquipmentReason,vehicleBreakdown,False,2026-05-19T09:17:25.126294,2026-05-21T08:00:21.084188,46.72,True
+SYN-212235,200,340003164NOR,Wardington Corner Mount,verySlight,MiscellaneousReason,demonstration,True,2026-06-28T13:07:23.340516,2026-06-28T15:39:57.277732,2.54,True
+SYN-196781,233,340003056OPP,Wood Farm Cinnaminta Road,normal,RoadworksReason,resurfacingWork,True,2026-06-06T19:37:12.134636,2026-06-08T03:31:35.427323,31.91,True
+SYN-688153,233,340001869OPP,Wootton The Duke of Marlborough,verySlight,MiscellaneousReason,diversion,True,2026-05-28T02:03:15.862276,2026-05-28T04:28:55.935283,2.43,True
+SYN-482364,233,340001890MAR,Banbury Marley Way,severe,RoadworksReason,maintenanceWork,True,2026-04-01T20:53:11.584154,2026-04-03T18:12:43.402592,45.33,True
+SYN-750810,233,340004092NOR,Carterton Bluebell Way,severe,PersonnelReason,staffSickness,False,2026-06-20T21:48:00.056462,2026-06-26T14:08:12.316248,136.34,True
+SYN-920391,233,340003067HAR,Hardwick Winchelsea Close,severe,MiscellaneousReason,diversion,True,2026-06-07T10:52:17.904252,2026-06-08T14:26:27.154260,27.57,True
+SYN-309267,233,340003194OPP,Chipping Norton Spring Street,normal,MiscellaneousReason,demonstration,True,2026-06-23T18:33:44.329912,2026-06-24T03:19:06.677134,8.76,True
+SYN-910891,234,340000013OCH,Marston Village St Nicholas Church,severe,EquipmentReason,signalFailure,False,2026-06-13T11:49:37.445122,2026-06-16T21:12:22.208410,81.38,True
+SYN-378361,234,340001017VOL,Grove WilliamsF1 Roundabout,normal,EnvironmentReason,ice,False,2026-04-26T02:54:35.943405,2026-04-26T08:07:27.868168,5.21,True
+SYN-146542,25,340002357SCH,Gagle Brook School,normal,EquipmentReason,signalFailure,False,2026-04-04T10:38:07.966619,2026-04-05T13:08:17.379271,26.5,True
+SYN-753425,25,340003063OPP,Hardwick Greville Road,normal,RoadworksReason,maintenanceWork,True,2026-06-03T18:58:34.367095,2026-06-04T07:38:44.731545,12.67,True
+SYN-540869,26,340020009SOU,Primary School,severe,MiscellaneousReason,demonstration,True,2026-04-29T06:03:28.055974,2026-05-04T10:27:20.897892,124.4,True
+SYN-923927,26,340001004SE,Woodstock Park View,severe,AccidentReason,collision,False,2026-05-30T20:14:51.280439,2026-05-31T20:18:21.719578,24.06,True
+SYN-397571,26,340001333OUT,Kidlington The Black Horse,slight,EnvironmentReason,ice,False,2026-05-23T04:46:01.658578,2026-05-23T09:20:43.243299,4.58,True
+SYN-356736,26,340000008JR7,JR Hospital W Wing J7,verySlight,EnvironmentReason,highTemperatures,False,2026-05-17T09:22:34.829101,2026-05-17T12:15:22.826063,2.88,True
+SYN-787926,29,340003122SOU,Minster Lovell Bushey Ground,slight,EnvironmentReason,flooding,False,2026-06-28T13:18:06.513152,2026-06-28T18:19:53.419817,5.03,True
+SYN-578634,29,300000413CW,Woodford Halse Phipps Road,normal,MiscellaneousReason,diversion,True,2026-06-01T21:15:51.884114,2026-06-03T07:53:04.309497,34.62,True
+SYN-567574,29,340000933WIN,North Leigh Windmill Heights,verySevere,EquipmentReason,signalFailure,False,2026-04-13T00:00:44.884811,2026-04-25T03:16:57.823714,291.27,True
+SYN-387936,29,300000037OS,Brackley Winchester House,slight,PersonnelReason,staffShortage,False,2026-06-20T17:58:10.210742,2026-06-21T00:50:54.755516,6.88,True
+SYN-167348,29,340004136OPP,Easington Parsons Piece,verySlight,PersonnelReason,staffSickness,False,2026-05-10T14:07:29.285228,2026-05-10T15:25:26.671344,1.3,True
+SYN-498858,29,340003224OPP,Bessels Leigh Parklands Manor,slight,RoadworksReason,resurfacingWork,True,2026-05-08T08:06:52.758505,2026-05-08T12:03:20.375153,3.94,True
+SYN-611945,2A,340000360V,Great Rollright Green,normal,MiscellaneousReason,specialEvent,True,2026-05-13T22:16:34.400366,2026-05-14T20:42:47.371535,22.44,True
+SYN-128276,2A,340002027OUT,North Leigh Park Road Garden Centre,slight,EquipmentReason,vehicleBreakdown,False,2026-04-20T17:57:02.630816,2026-04-21T00:32:15.817391,6.59,True
+SYN-442722,2A,340003199GRN,Stonesfield Green,verySlight,EquipmentReason,vehicleBreakdown,False,2026-06-21T14:57:58.835475,2026-06-21T16:32:16.350402,1.57,True
+SYN-335113,2A,340003188OPP,Botley Nobles Lane,normal,MiscellaneousReason,specialEvent,True,2026-05-01T09:00:04.261822,2026-05-01T16:36:18.209091,7.6,True
+SYN-801978,2A,340001782CRS,Adderbury The Rise,verySlight,PersonnelReason,industrialAction,False,2026-05-29T12:18:40.469111,2026-05-29T12:53:19.739101,0.58,True
+SYN-426147,2A,340002051OPP,Witney Downs Road,normal,MiscellaneousReason,specialEvent,True,2026-04-11T07:04:52.332946,2026-04-12T13:48:00.335978,30.72,True
+SYN-206851,2A,300000037JC,Brackley Jarvis Court,slight,RoadworksReason,resurfacingWork,True,2026-04-10T17:29:35.877338,2026-04-10T21:07:13.612716,3.63,True
+SYN-172306,488,340002013CNR,Eynsham Spareacre Lane,normal,RoadworksReason,maintenanceWork,True,2026-06-02T17:56:12.787407,2026-06-04T08:22:22.226271,38.44,True
+SYN-284692,488,340001536STO,Yarnton William Fletcher School,severe,RoadworksReason,resurfacingWork,True,2026-05-16T12:52:31.100529,2026-05-22T12:12:32.970553,143.33,True
+SYN-993085,488,340001429CNR,Neithrop Boxhedge Road West,normal,MiscellaneousReason,specialEvent,True,2026-06-06T00:59:52.284008,2026-06-07T01:27:08.289435,24.45,True
+SYN-290672,488,340003134CNR,Neithrop Union Street,severe,MiscellaneousReason,specialEvent,True,2026-04-23T02:16:10.434873,2026-04-26T08:50:38.490133,78.57,True
+SYN-353080,488,340000033FDC,Kidlington Foxdown Close,slight,AccidentReason,vehicleFire,False,2026-05-14T21:06:28.274275,2026-05-15T03:00:58.104783,5.91,True
+SYN-421080,489,300000037TS,Brackley Top Station Road,normal,EquipmentReason,vehicleBreakdown,False,2026-06-04T19:21:40.588074,2026-06-06T10:15:01.154386,38.89,True
+SYN-341736,489,300000615CH,Farthinghoe Church,slight,AccidentReason,collision,False,2026-05-30T18:09:13.127937,2026-05-31T00:22:30.700942,6.22,True
+SYN-897135,489,490015320Q,Wales Farm Road North Acton,normal,RoadworksReason,roadworks,True,2026-04-11T20:37:00.159834,2026-04-12T09:02:40.249959,12.43,True
+SYN-157174,489,340001363CNR,Headington Fortnam Close,severe,RoadworksReason,roadworks,True,2026-05-18T05:12:56.294189,2026-05-23T11:10:13.077182,125.95,True
+SYN-293319,489,340020006NOR,Banbury Wildmere Close,normal,EnvironmentReason,fog,False,2026-05-20T19:15:19.325826,2026-05-20T23:47:42.165721,4.54,True
+SYN-418594,500,340002014OCR,Garford South Oxfordshire Crematorium,verySlight,RoadworksReason,resurfacingWork,True,2026-06-26T21:28:29.673043,2026-06-26T22:08:17.763959,0.66,True
+SYN-411797,500,340001874OPP,Enstone The Harrow,normal,RoadworksReason,maintenanceWork,True,2026-04-08T15:59:26.743689,2026-04-09T05:55:15.586200,13.93,True
+SYN-792509,500,340001329OPP,Barton Poundfield Close,slight,MiscellaneousReason,specialEvent,True,2026-06-17T09:57:35.993464,2026-06-17T17:40:50.734655,7.72,True
+SYN-837135,500,340001343LCF,Kidlington Lyne Road Turn,verySlight,RoadworksReason,maintenanceWork,True,2026-04-08T07:21:53.731471,2026-04-08T07:52:17.812974,0.51,True
+SYN-335729,500,340000487HUR,Long Hanborough New Road,severe,RoadworksReason,roadworks,True,2026-06-17T08:45:01.942904,2026-06-23T23:11:55.671762,158.45,True
+SYN-591465,8,300000413L,Woodford Halse Membris Way,verySlight,MiscellaneousReason,diversion,True,2026-05-29T06:53:27.609178,2026-05-29T07:48:20.914281,0.91,True
+SYN-127121,8,300000037CC,Cartwright Crescent,slight,EnvironmentReason,highTemperatures,False,2026-06-01T23:32:40.059665,2026-06-02T01:06:27.194333,1.56,True
+SYN-593355,8,340001554OPP,King's End Community Hospital,slight,MiscellaneousReason,demonstration,True,2026-04-09T05:15:57.870443,2026-04-09T11:37:09.832020,6.35,True
+SYN-436653,800,340001425CNR,Hardwick Hereford Way,verySlight,EquipmentReason,signalFailure,False,2026-05-17T16:57:42.827520,2026-05-17T18:55:30.794148,1.96,True
+SYN-429795,800,340000949BRC,Kidlington Evans Court,slight,MiscellaneousReason,specialEvent,True,2026-05-31T07:29:18.170037,2026-05-31T13:07:35.275169,5.64,True
+SYN-479353,800,340002015BPA,Bicester P&R [A],severe,RoadworksReason,resurfacingWork,True,2026-04-23T17:10:53.464927,2026-04-27T11:42:22.002166,90.52,True
+SYN-130271,800,300000413CW,Woodford Halse Phipps Road,normal,EquipmentReason,signalFailure,False,2026-05-27T00:53:20.993351,2026-05-28T21:42:24.358669,44.82,True
+SYN-583863,9,340001623OPP,Grimsbury Priory Vale Road,normal,EnvironmentReason,fog,False,2026-06-27T13:59:49.639829,2026-06-28T11:56:55.364696,21.95,True
+SYN-578975,9,300000037NN,Brackley Northampton Road,slight,EnvironmentReason,fog,False,2026-06-25T05:39:04.332586,2026-06-25T10:12:47.907366,4.56,True
+SYN-380150,9,340001785OPH,Deddington Hudson Street,slight,AccidentReason,collision,False,2026-05-20T14:43:57.237823,2026-05-20T21:46:50.716571,7.05,True
+SYN-678727,9,340003067HAR,Hardwick Winchelsea Close,severe,RoadworksReason,resurfacingWork,True,2026-06-13T20:23:12.703491,2026-06-17T12:41:22.872045,88.3,True
+SYN-880879,9,340001388OPP,Bretch Hill Bradley Arcade,severe,AccidentReason,vehicleFire,False,2026-06-08T15:48:17.941173,2026-06-14T19:04:15.067925,147.27,True
+SYN-718849,900,340002014HRN,Steeple Aston Heyford Bridge,slight,MiscellaneousReason,specialEvent,True,2026-05-13T13:37:43.321869,2026-05-13T20:22:26.160172,6.75,True
+SYN-592296,900,340000864A5,Oxford George St [A5],verySlight,RoadworksReason,resurfacingWork,True,2026-04-30T21:06:30.817770,2026-04-30T23:53:04.792869,2.78,True
+SYN-757246,900,340001391OPP,Bretch Hill Mascord Road,normal,RoadworksReason,maintenanceWork,True,2026-06-10T08:05:40.664939,2026-06-12T01:35:51.532651,41.5,True
+SYN-203225,900,340023044NW,Kings Canal Bridge,verySlight,PersonnelReason,industrialAction,False,2026-06-04T16:25:46.698534,2026-06-04T17:06:02.485259,0.67,True
+SYN-551607,900,340024018ADJ,Forest Farm School,slight,PersonnelReason,staffSickness,False,2026-06-08T10:23:54.732723,2026-06-08T17:43:21.019087,7.32,True
+SYN-343467,B10,340000909OPP,Witney Holloway Road,verySlight,EquipmentReason,vehicleBreakdown,False,2026-04-14T02:25:50.731359,2026-04-14T03:07:41.446515,0.7,True
+SYN-716113,B10,340003107OPP,Eynsham Acre End Street,normal,RoadworksReason,resurfacingWork,True,2026-05-12T12:05:01.726248,2026-05-13T04:44:22.582103,16.66,True
+SYN-476395,B10,340001090CNR,Cumnor Hill Cotswold Road,verySlight,MiscellaneousReason,demonstration,True,2026-04-27T22:10:23.441186,2026-04-28T00:47:11.176512,2.61,True
+SYN-735863,B10,340001361OPP,Headington Nuffield Orthopaedic Centre,verySlight,MiscellaneousReason,specialEvent,True,2026-05-22T17:35:37.569069,2026-05-22T20:10:07.907122,2.58,True
+SYN-758765,B10,300000451FH,Charwelton Church Street,normal,MiscellaneousReason,specialEvent,True,2026-06-07T01:34:18.670546,2026-06-07T15:12:28.989512,13.64,True
+SYN-284171,B10,340000986RBT,Summertown Wolvercote Roundabout,slight,EnvironmentReason,flooding,False,2026-04-09T17:52:26.718246,2026-04-09T22:55:51.978141,5.06,True
+SYN-882824,B3,340001798CNR,Bodicote Freemans Road,slight,PersonnelReason,staffShortage,False,2026-04-19T01:43:00.323199,2026-04-19T08:31:48.233212,6.81,True
+SYN-483542,B3,340001013OPP,Grove Wessex Way,verySevere,MiscellaneousReason,specialEvent,True,2026-06-18T08:03:26.755712,2026-07-02T02:45:43.863252,330.7,True
+SYN-213609,B3,340000689OPP,Upper Arncott Green,slight,AccidentReason,vehicleFire,False,2026-04-09T03:03:15.160421,2026-04-09T08:45:50.435644,5.71,True
+SYN-222343,B3,340000797RLS,Isabelle Spencer Way,severe,EquipmentReason,signalFailure,False,2026-05-31T17:38:49.054599,2026-06-07T04:35:55.606360,154.95,True
+SYN-539486,B3,340001867OUT,Marlborough Arms,verySevere,MiscellaneousReason,specialEvent,True,2026-04-13T13:55:06.049256,2026-04-20T15:51:55.393575,169.95,True
+SYN-564920,B3,340000540OPP,Milcombe New Road Stores,normal,PersonnelReason,staffShortage,False,2026-05-23T20:39:18.526986,2026-05-25T17:58:24.532595,45.32,True
+SYN-228093,B3,340003096VCW,Village Centre,verySlight,RoadworksReason,resurfacingWork,True,2026-05-11T00:32:35.005642,2026-05-11T02:45:26.128031,2.21,True
+SYN-925206,B4,300000634P,Badby Shelter,normal,MiscellaneousReason,diversion,True,2026-06-25T09:51:47.889526,2026-06-25T14:48:10.910356,4.94,True
+SYN-390743,B4,340001227CNM,Blackbird Leys Mercury Road,verySlight,RoadworksReason,maintenanceWork,True,2026-05-21T19:29:18.340660,2026-05-21T20:31:41.902827,1.04,True
+SYN-717457,B5,300000037VR,Brackley Valley Road,slight,RoadworksReason,roadworks,True,2026-06-17T06:09:26.038732,2026-06-17T07:55:36.182699,1.77,True
+SYN-214351,B9,490009633X,Marble Arch Marble Arch,verySlight,RoadworksReason,roadworks,True,2026-04-30T03:20:46.888217,2026-04-30T04:53:55.533229,1.55,True
+SYN-602248,B9,340001281COR,Marston Ashlong Road,verySlight,RoadworksReason,maintenanceWork,True,2026-05-11T16:19:54.145210,2026-05-11T18:47:23.188174,2.46,True
+SYN-754644,B9,340001341ENT,Kidlington Oxford Motor Park,slight,AccidentReason,accident,False,2026-06-16T06:09:53.471668,2026-06-16T07:40:45.437705,1.51,True
+SYN-994217,B9,340024012NOR,Frontier Park,slight,EquipmentReason,signalFailure,False,2026-05-27T23:26:44.608165,2026-05-28T02:30:36.031363,3.06,True
+SYN-865054,B9,340000992WR1,Summertown First Turn,normal,MiscellaneousReason,demonstration,True,2026-05-29T22:10:47.957700,2026-05-30T12:14:01.339879,14.05,True
+SYN-201255,B9,340023039SS1,Oxford North A44,verySlight,AccidentReason,collision,False,2026-04-09T13:23:07.486207,2026-04-09T16:16:09.818866,2.88,True
+SYN-856086,B9,340004133EAS,Chipping Norton Trinity Road,slight,AccidentReason,accident,False,2026-06-07T00:18:43.824436,2026-06-07T05:14:35.802069,4.93,True
+SYN-485415,E1,340001012MEM,Grove Grove Airfield Memorial,slight,RoadworksReason,resurfacingWork,True,2026-04-05T15:07:24.717865,2026-04-05T17:36:45.735768,2.49,True
+SYN-738577,E1,340002074G4,Oxford St Aldates [G4],normal,RoadworksReason,roadworks,True,2026-04-11T08:09:08.198012,2026-04-13T00:09:47.012563,40.01,True
+SYN-693830,E1,340000909OPP,Witney Holloway Road,verySlight,MiscellaneousReason,specialEvent,True,2026-06-23T14:49:19.446777,2026-06-23T16:00:18.880275,1.18,True
+SYN-426775,E1,340002012STD,Eynsham Spareacre Lane Shops,normal,RoadworksReason,maintenanceWork,True,2026-05-30T03:51:51.880491,2026-05-30T17:19:48.928688,13.47,True
+SYN-794093,H5,340001875CNR,Lidstone Lidstone Turn,slight,PersonnelReason,industrialAction,False,2026-06-04T22:38:50.245167,2026-06-05T00:44:10.858733,2.09,True
+SYN-652530,H5,340001792OPP,Steeple Aston The Red Lion,verySlight,EnvironmentReason,ice,False,2026-05-09T03:52:18.875727,2026-05-09T06:15:33.364020,2.39,True
+SYN-444061,H5,340024005SOU,Chalker Way South,verySevere,RoadworksReason,resurfacingWork,True,2026-05-31T01:00:22.776734,2026-06-11T10:44:41.292065,273.74,True
+SYN-516359,H5,340001056BR1,Oxford Linton Road,verySlight,EquipmentReason,signalFailure,False,2026-04-11T19:09:58.256654,2026-04-11T20:37:00.123665,1.45,True
+SYN-220768,H5,340024005SOU,Chalker Way South,slight,RoadworksReason,roadworks,True,2026-06-17T13:24:39.679088,2026-06-17T16:36:08.806981,3.19,True
+SYN-556839,N1,300000037TS,Brackley Top Station Road,normal,MiscellaneousReason,diversion,True,2026-05-07T10:52:11.219737,2026-05-09T07:20:22.748413,44.47,True
+SYN-634723,N1,340000276OPS,Witney Woodgreen School,severe,EquipmentReason,signalFailure,False,2026-05-23T23:57:43.137843,2026-05-25T10:57:38.207125,35.0,True
+SYN-897143,N1,340000632WLY,Burford Oxford Road Layby,normal,PersonnelReason,staffShortage,False,2026-04-18T10:49:55.219931,2026-04-19T01:13:40.205604,14.4,True
+SYN-757685,N1,340001444CNR,Neithrop Queens Road,slight,RoadworksReason,maintenanceWork,True,2026-06-08T07:46:08.907234,2026-06-08T14:05:17.811404,6.32,True
+SYN-139434,N1,340001816MEM,Charlbury Spendlove Centre,slight,EquipmentReason,signalFailure,False,2026-04-29T10:51:36.043559,2026-04-29T13:46:57.819980,2.92,True
+SYN-571579,N1,340001307PRC,Wood Farm Wood Farm Road West,normal,MiscellaneousReason,diversion,True,2026-04-06T02:52:57.035285,2026-04-07T09:01:19.278556,30.14,True
+SYN-849014,N2,340003109OXF,Shores Green A40 Slip Road,slight,EquipmentReason,vehicleBreakdown,False,2026-06-21T19:32:52.462317,2026-06-21T21:36:14.161450,2.06,True
+SYN-506235,N2,340001343LCF,Kidlington Lyne Road Turn,verySlight,EnvironmentReason,flooding,False,2026-04-08T14:09:03.330623,2026-04-08T15:44:43.155092,1.59,True
+SYN-858889,N2,300000614NI,Middleton Cheney New Inn,verySlight,RoadworksReason,maintenanceWork,True,2026-05-07T18:56:30.832995,2026-05-07T21:01:08.812165,2.08,True
+SYN-235215,NS1,340000994CNR,Summertown Squitchey Lane west,severe,MiscellaneousReason,demonstration,True,2026-06-16T15:22:59.237639,2026-06-19T17:45:26.333898,74.37,True
+SYN-197992,NS1,340003086GEO,Highfield George Street,slight,MiscellaneousReason,specialEvent,True,2026-05-24T13:17:20.590107,2026-05-24T16:35:18.199274,3.3,True
+SYN-262471,NS1,300000534TH,Chacombe Banbury Road,verySlight,AccidentReason,vehicleFire,False,2026-05-29T03:24:49.006024,2026-05-29T04:41:08.800655,1.27,True
+SYN-726258,S1,340000792CM,Wardington Greensward,slight,MiscellaneousReason,diversion,True,2026-04-07T22:40:35.695524,2026-04-08T04:50:49.524400,6.17,True
+SYN-565776,S1,300000037BU,Brackley Top Station Road,normal,RoadworksReason,maintenanceWork,True,2026-05-04T21:42:53.715516,2026-05-05T20:58:21.182890,23.26,True
+SYN-561999,S1,340001105OPP,Botley Cumnor Hill Bottom,verySlight,PersonnelReason,staffShortage,False,2026-05-25T22:53:10.002450,2026-05-25T23:59:02.518925,1.1,True
+SYN-772324,S1,340001365CNR,Cowley Paul Kent Hall,slight,RoadworksReason,resurfacingWork,True,2026-05-12T13:13:43.512357,2026-05-12T15:21:47.378323,2.13,True
+SYN-254506,S1,340003088OPP,Glory Farm Curtiss Close,normal,AccidentReason,accident,False,2026-05-14T06:04:32.936871,2026-05-14T13:45:58.756730,7.69,True
+SYN-185569,S2X,340003094SW,Bicester Vendee Drive,normal,RoadworksReason,roadworks,True,2026-06-14T19:03:39.284131,2026-06-15T17:18:58.954013,22.26,True
+SYN-895702,S2X,300000614SD,Middleton Cheney Stanwell Drive,severe,RoadworksReason,roadworks,True,2026-05-04T17:48:40.948497,2026-05-07T11:07:19.228064,65.31,True
+SYN-216587,S2X,340004133EAS,Chipping Norton Trinity Road,severe,EquipmentReason,vehicleBreakdown,False,2026-06-03T11:57:29.299048,2026-06-10T03:21:02.431187,159.39,True
+SYN-662093,S2X,340000009PR3,Thornhill P&R,verySlight,RoadworksReason,roadworks,True,2026-06-09T20:31:58.391373,2026-06-09T22:04:56.821267,1.55,True
+SYN-648913,S2X,340000033FDC,Kidlington Foxdown Close,normal,EquipmentReason,vehicleBreakdown,False,2026-04-02T11:30:01.298753,2026-04-03T07:01:27.359430,19.52,True
+SYN-491435,S3,340003094NOR,Bicester Vendee Drive,slight,RoadworksReason,maintenanceWork,True,2026-06-27T17:15:13.321644,2026-06-27T21:48:25.410882,4.55,True
+SYN-469412,S3,340001313OPP,Headington Brookes University,slight,RoadworksReason,roadworks,True,2026-04-23T19:53:04.430074,2026-04-24T01:16:56.505528,5.4,True
+SYN-138780,S3,340000899COR,Charlbury Enstone Road,severe,MiscellaneousReason,diversion,True,2026-05-20T03:23:22.882735,2026-05-22T05:38:15.797113,50.25,True
+SYN-889882,S3,340000002CAR,Oxford City Centre High Street,severe,RoadworksReason,roadworks,True,2026-04-27T09:50:09.433457,2026-05-03T07:15:15.945669,141.42,True
+SYN-455505,S4,340002015BPB,Bicester P&R [B],severe,RoadworksReason,roadworks,True,2026-05-29T05:18:18.278675,2026-06-04T13:23:28.089094,152.09,True
+SYN-671971,S4,340000693EAS,Lower Arncott The Plough,slight,EquipmentReason,signalFailure,False,2026-06-27T15:14:34.591636,2026-06-27T18:06:35.953170,2.87,True
+SYN-862120,S4,340001370OUT,Wood Farm Wood Farm Primary School,normal,RoadworksReason,resurfacingWork,True,2026-04-27T10:32:07.674163,2026-04-28T09:17:04.460108,22.75,True
+SYN-132653,S4,340000167OPO,Carterton Crossroads,verySlight,AccidentReason,vehicleFire,False,2026-06-18T07:16:49.073239,2026-06-18T10:13:49.318752,2.95,True
+SYN-812048,S4,340001957NOR,Burford St John Fisher Church,verySlight,EnvironmentReason,ice,False,2026-04-13T20:24:13.145987,2026-04-13T21:04:18.246255,0.67,True
+SYN-127172,S4,340001623OPP,Grimsbury Priory Vale Road,normal,AccidentReason,vehicleFire,False,2026-05-11T11:49:57.894326,2026-05-12T09:20:46.487205,21.51,True
+SYN-309902,S5,340001743OPP,Twyford Gardens,severe,EquipmentReason,signalFailure,False,2026-06-06T05:03:27.707312,2026-06-08T11:57:21.015852,54.9,True
+SYN-844007,S5,340003111OPP,Swinford Swinford Bridge,verySlight,MiscellaneousReason,specialEvent,True,2026-04-12T00:53:48.592725,2026-04-12T03:10:48.921774,2.28,True
+SYN-310743,S5,300000413CW,Woodford Halse Phipps Road,severe,EquipmentReason,signalFailure,False,2026-04-06T20:16:06.272986,2026-04-12T14:33:38.478371,138.29,True
+SYN-168941,S5,340001338OPP,Kidlington Glebe House,verySlight,RoadworksReason,resurfacingWork,True,2026-06-11T06:51:42.678000,2026-06-11T08:44:48.870935,1.89,True
+SYN-571832,S7,340001060CNR,Oxford Keble Road,slight,MiscellaneousReason,demonstration,True,2026-04-28T20:04:04.619501,2026-04-28T23:56:02.344393,3.87,True
+SYN-971776,S7,340001058OPP,Oxford Park Town,severe,EquipmentReason,vehicleBreakdown,False,2026-05-12T22:11:58.960253,2026-05-19T17:20:30.536116,163.14,True
+SYN-362778,S7,340001289LEW,Lewis Close,verySlight,RoadworksReason,roadworks,True,2026-04-12T04:11:16.874089,2026-04-12T07:01:29.514619,2.84,True
+SYN-279516,S7,340001658MEM,Burford War Memorial,verySlight,MiscellaneousReason,specialEvent,True,2026-04-18T16:00:43.725900,2026-04-18T17:16:09.147355,1.26,True
+SYN-377511,S7,340000859S,Frilford Golf Club,slight,PersonnelReason,industrialAction,False,2026-05-30T06:51:46.823432,2026-05-30T08:09:04.919881,1.29,True
+SYN-943776,S7,300000037OJ,Brackley Juno Crescent,normal,PersonnelReason,staffShortage,False,2026-05-29T14:26:26.704928,2026-05-30T18:26:46.178322,28.01,True
+SYN-853258,TUBE,340001430OUT,Neithrop Bath Road,verySlight,AccidentReason,vehicleFire,False,2026-06-12T15:52:28.268998,2026-06-12T16:31:27.486294,0.65,True
+SYN-571435,TUBE,340001297WFR,Barton Malford Road,verySevere,MiscellaneousReason,specialEvent,True,2026-04-29T17:43:24.269221,2026-05-07T20:52:19.796936,195.15,True
+SYN-856157,TUBE,340001024OPP,Garford Garford Turn,severe,RoadworksReason,resurfacingWork,True,2026-04-23T07:30:17.230519,2026-04-29T17:26:15.163274,153.93,True
+SYN-352422,TUBE,340000201WSC,Chipping Norton West Street,verySevere,PersonnelReason,staffShortage,False,2026-04-29T03:27:51.224625,2026-05-06T11:16:48.596406,175.82,True
+SYN-551860,TUBE,340001349OPP,Kidlington Osborne Close,verySlight,AccidentReason,accident,False,2026-04-20T08:42:43.029564,2026-04-20T10:42:20.698503,1.99,True
+SYN-505116,TUBE,340001059OUT,Oxford Bevington Road,normal,RoadworksReason,resurfacingWork,True,2026-04-13T01:17:58.124484,2026-04-14T06:23:30.736875,29.09,True
+SYN-684929,X4,340020005EAS,Banbury Kildare House,severe,PersonnelReason,staffShortage,False,2026-05-16T09:11:30.994462,2026-05-17T23:06:50.676817,37.92,True
+SYN-579187,X4,340003095SOU,Wendlebury Wendlebury Turn,normal,PersonnelReason,staffSickness,False,2026-06-24T12:07:44.056645,2026-06-24T17:50:28.028898,5.71,True
+SYN-631958,X4,340003135OPP,Ruscote Parklands,slight,MiscellaneousReason,diversion,True,2026-04-14T09:42:42.607746,2026-04-14T11:50:57.659302,2.14,True
